@@ -13,7 +13,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("Pizza.jpg.jpeg");
+  background-image: url("food.jpg");
   background-size: cover;
 }
 
